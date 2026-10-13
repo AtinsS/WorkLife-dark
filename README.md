@@ -4,7 +4,10 @@ A dark companion theme for WorkLife Calendar. It carries the same character: nig
 
 > **v1.0.0** · Obsidian 1.4.0+ · [AtinsS](https://github.com/AtinsS)
 
+
 ---
+
+![alt text](image.png)
 
 ## Why
 
